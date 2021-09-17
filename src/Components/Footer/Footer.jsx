@@ -1,9 +1,9 @@
 import React from 'react';
-import '../index.css';
+import s from './Footer.module.css';
 
 function Footer() {
     return(
-        <footer className="footer">
+        <footer className={s.footer}>
             Friendly.com footer
         </footer>
     );

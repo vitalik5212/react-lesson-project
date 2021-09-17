@@ -11,27 +11,3 @@
     grid-template-columns: 2fr 10fr;
     /*grid-gap: 10px;*/
 }
-
-.header {
-    grid-area: header;
-    background-color: orange;
-}
-.header img {
-    width: 60px;
-}
-
-.nav {
-    grid-area: nav;
-    background-color: orange;
-}
-
-.profile {
-    grid-area: content;
-    background-color: deepskyblue;
-}
-
-.footer {
-    grid-area: footer;
-}
-
-
