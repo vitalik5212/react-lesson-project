@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a8852d8-3448-4203-b510-417d73f79aff" name="Changes" comment="Added structure for Dialogs page.">
-      <change afterPath="$PROJECT_DIR$/src/Components/Profile/Description/Description.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Profile/Description/Description.module.css" afterDir="false" />
+    <list default="true" id="8a8852d8-3448-4203-b510-417d73f79aff" name="Changes" comment="Refactor Descriptions block in Profile and Refactor Dialogs block.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Dialogs/Dialogs.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Profile/MyPosts/MyPosts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Profile/MyPosts/MyPosts.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Profile/MyPosts/Post/Post.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Profile/MyPosts/Post/Post.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Profile/Profile.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +78,7 @@
       <workItem from="1632243002468" duration="649000" />
       <workItem from="1632252648145" duration="3768000" />
       <workItem from="1632342858199" duration="2771000" />
-      <workItem from="1632425851548" duration="3048000" />
+      <workItem from="1632425851548" duration="4543000" />
     </task>
     <task id="LOCAL-00001" summary="Added css modules. Changed folders structure.">
       <created>1631886783691</created>
@@ -142,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632348185360</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Refactor Descriptions block in Profile and Refactor Dialogs block.">
+      <created>1632429839861</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1632429839861</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +170,7 @@
     <MESSAGE value="Added Browser Router and links in pages." />
     <MESSAGE value="Modified NavBar. Added NavLink and new style for text." />
     <MESSAGE value="Added structure for Dialogs page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added structure for Dialogs page." />
+    <MESSAGE value="Refactor Descriptions block in Profile and Refactor Dialogs block." />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor Descriptions block in Profile and Refactor Dialogs block." />
   </component>
 </project>
