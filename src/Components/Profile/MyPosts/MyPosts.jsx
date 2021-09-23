@@ -4,9 +4,12 @@ import Post from "./Post/Post";
 
 function MyPosts() {
     return (
-        <div>
+        <div className={s.myPosts}>
             <div>
-                <textarea>New Post</textarea>
+                <h3>My posts</h3>
+                <div>
+                    <textarea>New Post</textarea>
+                </div>
                 <button type={"submit"}>Submit</button>
             </div>
             <Post message='Hi how are you?' likes={10}/>
