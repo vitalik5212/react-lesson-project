@@ -10,6 +10,8 @@ function MyPosts() {
         {id: 3, message: 'Goodbye', likesCount: 0},
     ];
 
+    let postElements = posts.map(post => <Post message={post.message} likes={post.likesCount}/> );
+
     return (
         <div className={s.myPosts}>
             <div>
@@ -19,9 +21,7 @@ function MyPosts() {
                 </div>
                 <button type={"submit"}>Submit</button>
             </div>
-            <Post message={posts[0].message} likes={posts[0].likesCount}/>
-            <Post message={posts[1].message} likes={posts[1].likesCount}/>
-            <Post message={posts[2].message} likes={posts[2].likesCount}/>
+            {postElements}
         </div>
     )
 }
