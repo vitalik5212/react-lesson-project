@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a8852d8-3448-4203-b510-417d73f79aff" name="Changes" comment="Slice UI and BLL.">
+    <list default="true" id="8a8852d8-3448-4203-b510-417d73f79aff" name="Changes" comment="Added map for MyPosts and Messages page.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Dialogs/Dialogs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Dialogs/Dialogs.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Dialogs/Dialogs.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +29,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
   <component name="ProjectId" id="1xwdNLGTrEmUxiJrjwX8qVilHLm" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,6 +49,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -78,7 +82,7 @@
       <workItem from="1632252648145" duration="3768000" />
       <workItem from="1632342858199" duration="2771000" />
       <workItem from="1632425851548" duration="4874000" />
-      <workItem from="1632574265876" duration="1740000" />
+      <workItem from="1632574265876" duration="2504000" />
     </task>
     <task id="LOCAL-00001" summary="Added css modules. Changed folders structure.">
       <created>1631886783691</created>
@@ -150,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632431681167</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added map for MyPosts and Messages page.">
+      <created>1632576589754</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1632576589754</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +190,7 @@
     <MESSAGE value="Added structure for Dialogs page." />
     <MESSAGE value="Refactor Descriptions block in Profile and Refactor Dialogs block." />
     <MESSAGE value="Slice UI and BLL." />
-    <option name="LAST_COMMIT_MESSAGE" value="Slice UI and BLL." />
+    <MESSAGE value="Added map for MyPosts and Messages page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added map for MyPosts and Messages page." />
   </component>
 </project>
