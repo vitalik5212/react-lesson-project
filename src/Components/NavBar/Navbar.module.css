@@ -1,6 +1,8 @@
 .nav {
     grid-area: nav;
-    background-color: orange;
+    background-color: #f0f0ed;
+    border-radius: 10px;
+    margin-top: 8px;
 }
 
 .item {
@@ -8,7 +10,7 @@
 }
 
 .item a {
-    color: white;
+    color: #33363c;
     text-decoration: none;
 }
 
