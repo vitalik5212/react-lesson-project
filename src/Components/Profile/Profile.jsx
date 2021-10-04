@@ -5,9 +5,9 @@ import Description from "./Description/Description";
 
 const Profile = (props) => {
     return (
-        <main>
+        <main className={s.content}>
             <Description />
-            <MyPosts state={props.state}/>
+            <MyPosts state={props.state} addPost={props.addPost}/>
         </main>
     );
 }
