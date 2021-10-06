@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a8852d8-3448-4203-b510-417d73f79aff" name="Changes" comment="Move data outside UI. Create temp file 'state' for saving data.">
-      <change afterPath="$PROJECT_DIR$/src/render.js" afterDir="false" />
+    <list default="true" id="8a8852d8-3448-4203-b510-417d73f79aff" name="Changes" comment="Added new logic for render page. Added additional posts.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Dialogs/Dialogs.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/NavBar/Navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/NavBar/Navbar.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Profile/Profile.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/redux/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/render.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/render.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Style" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -97,7 +97,9 @@
       <workItem from="1632831433954" duration="4000" />
       <workItem from="1633028860185" duration="40000" />
       <workItem from="1633208199662" duration="1189000" />
-      <workItem from="1633346802881" duration="4433000" />
+      <workItem from="1633346802881" duration="4807000" />
+      <workItem from="1633353758065" duration="505000" />
+      <workItem from="1633540950513" duration="2601000" />
     </task>
     <task id="LOCAL-00001" summary="Added css modules. Changed folders structure.">
       <created>1631886783691</created>
@@ -190,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1632599940908</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added new logic for render page. Added additional posts.">
+      <created>1633353545082</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1633353545082</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added new logic for render page. Added additional posts.">
+      <created>1633353593813</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1633353593813</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +238,7 @@
     <MESSAGE value="Added map for MyPosts and Messages page." />
     <MESSAGE value="Refactor Dialogs component." />
     <MESSAGE value="Move data outside UI. Create temp file 'state' for saving data." />
-    <option name="LAST_COMMIT_MESSAGE" value="Move data outside UI. Create temp file 'state' for saving data." />
+    <MESSAGE value="Added new logic for render page. Added additional posts." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new logic for render page. Added additional posts." />
   </component>
 </project>
