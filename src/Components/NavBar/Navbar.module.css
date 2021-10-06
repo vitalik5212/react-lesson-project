@@ -2,7 +2,7 @@
     grid-area: nav;
     background-color: #f0f0ed;
     border-radius: 10px;
-    margin-top: 8px;
+    margin: 8px  8px  0  0;
 }
 
 .item {

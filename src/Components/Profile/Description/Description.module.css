@@ -1,3 +1,7 @@
 .descriptionBlock {
     padding: 10px;
 }
+
+.mainImg img{
+    border-radius: 10px;
+}
